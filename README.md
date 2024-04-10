@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and designer
 --------------------------
 
-Hey I'm Rob, a creative full-stack web developer and designer. I have delivered and consulted on many web and digital projects for a variety of different clients ranging from SMEs to national property developers. From designing and developing impactful websites with high conversion rates to optimizing and improving a website's performance, be it by page speed or user experience, I can add value at every stage of your next web or digital project. I have a vast range of experience across different technology stacks from,React, TypeScript, NodeJs, PHP, CSS, Tailwind CSS and SCSS. My background as a designer also helps me identify and solve problems in a creative fashion with out-of-the-box thinking across both the Frontend and Backend of a website or digital product.
+Hey I'm Rob, a creative full-stack web developer and designer. 
+
+I have delivered and consulted on many web and digital projects for a variety of different clients ranging from SMEs to national property developers. 
+
+From designing and developing impactful websites with high conversion rates to optimizing and improving a website's performance, be it by page speed or user experience, I can add value at every stage of your next web or digital project. 
+
+I have a vast range of experience across different technology stacks from,React, TypeScript, NodeJs, PHP, CSS, Tailwind CSS and SCSS. My background as a designer also helps me identify and solve problems in a creative fashion with out-of-the-box thinking across both the Frontend and Backend of a website or digital product.
 
 *   🌍  I'm based in UK, East Midlands
 *   🖥️  See my portfolio at [My website and blog](http://robcipolla.co.uk)
